@@ -1,0 +1,8 @@
+.arredondamento{
+    border-radius: 15px;
+}
+.arredondamento-btn{
+    border-radius: 25px;
+    box-shadow: 2px 2px 10px red;
+}
+
